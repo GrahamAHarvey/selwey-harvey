@@ -148,4 +148,4 @@ Selwey-Harvey is an observation that structured inclusion among actors — all a
 
 ---
 
-*If you have tested this framework — against a system you know, a decision you've faced, or a pattern you've observed — the results are worth sharing, whether they confirm, complicate, or contradict what's written here. This document is maintained as an open repository, and its discussion space is open to any actor with something to contribute. You can find it at [github.com/gharvey/selwey-harvey/discussions](https://github.com/gharvey/selwey-harvey/discussions).*
+*If you have tested this framework — against a system you know, a decision you've faced, or a pattern you've observed — the results are worth sharing, whether they confirm, complicate, or contradict what's written here. This document is maintained as an open repository, and its discussion space is open to any actor with something to contribute. You can find it at [github.com/grahamaharvey/selwey-harvey/discussions](https://github.com/gharvey/selwey-harvey/discussions).*
