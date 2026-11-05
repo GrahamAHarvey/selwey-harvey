@@ -11,7 +11,7 @@ A per-decision procedure for evaluating and structuring transactions. Apply it t
 The persistent association of actors who operate from the Protocol as their standing practice. For actors considering participation in the practitioner network.
 
 **→ [Selwey-Harvey Framework](selwey-harvey.md)**
-The foundational document that explains why the Protocol is shaped as it is. The framework's five tenets, evidentiary case, and compositional history.
+The original theoretical framework that inspired the development of the operational Protocol. 
 
 ## What this is
 
