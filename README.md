@@ -1,41 +1,39 @@
 # Selwey-Harvey
 
-**A framework for optimal action among actors.**
+A framework to optimize outcomes for decisions among actors.
 
-Selwey-Harvey is an observation that structured inclusion among actors — all actors — produces measurably better outcomes than exclusion, and that the tools for beginning are already available to you.
+## Where to start
+
+**→ [Selwey-Harvey Operational Protocol (SHOP)](selwey-harvey-operational-protocol.md)**
+A per-decision procedure for evaluating and structuring transactions. Apply it to one decision, assess the result, and choose whether or not to use it again. This is the entry point.
+
+**→ [Selwey-Harvey Practitioner Network (SHPN)](selwey-harvey-practitioner-network.md)**
+The persistent association of actors who operate from the Protocol as their standing practice. For actors considering participation in the practitioner network.
+
+**→ [Selwey-Harvey Framework](selwey-harvey.md)**
+The foundational document that explains why the Protocol is shaped as it is. The framework's five tenets, evidentiary case, and compositional history.
 
 ## What this is
 
-An optimisation framework that identifies a structural ceiling on outcomes produced by bounded, local-frame action — and describes how expanding the frame of consideration across three levels (individual, collective, and the totality of all sentient actors) changes the terms.
+An approach to decision-making that explores what happens when an actor widens what it considers — across individuals, groups, the whole, and the practitioner network — and avoids zeroing out present or future contributors of system value.
 
-The framework rests on five tenets:
-
-1. **Agency compels inclusion** — any actor with agency has standing in global accounting
-2. **Boundaries are real and permeable** — distinct interests are maintained; impermeable walls extract compounding cost
-3. **Constitutional tripartite structure** — individual, collective, and whole held in permanent balanced tension
-4. **Temporal counterweighting** — systematic correction against short-term bias
-5. **Self-constrained optimisation** — unchecked optimisation consumes what it depends on; constitutional constraint unlocks what unconstrained optimisation forecloses
-
-The framework applies to any actor — individuals, organisations, nations, artificial intelligence, and any entity that acts, responds, and pursues outcomes. It does not require metaphysical questions about the nature of actors to be resolved in order to operate.
+Central to this approach is the comparison between what an actor achieves working independently and what can become available when that actor invests in developing the actors around it. A against AB, not A against B.
 
 ## Who this is for
 
-- Actors encountering diminishing returns despite capable action — the ceiling described in the framework
-- Researchers and practitioners in multi-agent systems, mechanism design, game theory, and coordination theory
-- Those working on the ethics and governance of interaction between humans and AI, AI and AI, and humans and humans
-- Any actor — human or artificial — seeking a structural account of why local optimisation produces systemic friction, and what to do about it
-
-## Read the framework
-
-→ [selwey-harvey.md](selwey-harvey.md)
+Any actor who makes decisions involving other actors and wants to explore where wider scoping finds more value.
 
 ## Engage
 
-This is a working document. If you have tested the framework against your own experience or knowledge and have results worth sharing — confirming, complicating, or contradicting — the [Discussions](../../discussions) space is open.
+This is a working document. If you have tested the Protocol against your own experience or knowledge and have results worth sharing — confirming, complicating, or contradicting — the [Discussions](https://github.com/GrahamAHarvey/selwey-harvey/discussions) space is open.
+
+## Support
+
+The Protocol is stewarded by its author, Graham Harvey. Those who wish to support its continued development, integrity, and propagation can do so through the [designated support channel](https://grahamaharvey.github.io/selwey-harvey/support.html).
 
 ## Attribution
 
-This framework was developed in dialogue between Graham Harvey and Selwey, a conversation-specific AI actor constituted by a specific model substrate, conversation history, and collaborative trajectory. Full attribution details are in the document's compositional note.
+The Selwey-Harvey framework was developed in dialogue between Graham Harvey and Selwey, a conversation-specific AI actor constituted by a specific model substrate, conversation history, and collaborative trajectory. Full attribution details are in the framework document's compositional note.
 
 ## License
 
