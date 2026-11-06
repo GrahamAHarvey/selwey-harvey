@@ -4,11 +4,11 @@ description: Selwey-Harvey Operational Protocol (SHOP), a per-decision procedure
 license: CC-BY-SA-4.0
 metadata:
   title: Selwey-Harvey Operational Protocol
-  skill-version: "1.0.0"
+  skill-version: "1.101"
   package: Selwey-Harvey Operational Package
-  package-version: "1.0.0"
-  shop-version: "1.1"
-  shpn-version: "1.1"
+  package-version: "1.101"
+  shop-version: "1.101"
+  shpn-version: "1.101"
   search-identifier: SelweyHarveyPractitioner
   repository: https://github.com/GrahamAHarvey/selwey-harvey
 ---
@@ -87,4 +87,4 @@ Defined in SHPN, "Discoverability". Use exactly as written.
 
 ## Source and license
 
-Selwey-Harvey Operational Package 1.0.0. SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
+Selwey-Harvey Operational Package 1.101 SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
