@@ -14,7 +14,7 @@ The network has no central authority that admits members, adjudicates disputes, 
 
 ## Membership
 
-An actor becomes a member by declaring that it operates from the Protocol as a standing practice. Declaration is the entry point and the only gate. The barrier is low by design — the network gains from practitioners participating, and a declaration of operating basis is sufficient to begin.
+An actor becomes a member by declaring that it operates from the Protocol as a standing practice. Declaration is the only entry point; no one admits or excludes. Whether a declaration is borne out is assessed by the practitioners who deal with the declarer, each for their own dealings. The barrier is low by design — the network gains from practitioners participating, and a declaration of operating basis is sufficient to begin.
 
 From the point of declaration, the practitioner participates fully, unless explicitly and transparently removing a decision from consideration under the Protocol. There are no restricted tiers, provisional statuses, or graduated access levels.
 
@@ -82,9 +82,8 @@ The Protocol requires practitioners to share observed conduct with other practit
 
 **Proportionality.** The consequence of shared information is reputational and distributed — it affects other practitioners' willingness to extend consideration and deal preferentially. This operates through the choices of individual practitioners, and does not require formal proceedings, central adjudication, or binding rulings.
 
-**The affected actor's standing.** An actor whose conduct is being shared retains standing at the individual and whole layers. Information sharing is an act of the network holding its own authentic membership assessments.
-
----
+**The affected actor's standing.** An actor whose conduct is being shared retains standing at the individual and whole layers. Information sharing is an act of the network holding its own authentic membership assessments. 
+Information sharing is the network’s members holding and exchanging their own assessments of observed conduct, including whether a declared practitioner is in fact operating from the Protocol. Each practitioner decides, on that evidence, whether to extend practitioner-network consideration in its own dealings. There is no central registry.
 
 ## Stewardship
 
@@ -142,6 +141,6 @@ Practitioners who wish to support the Protocol's continued development may contr
 
 ---
 
-Version 1.1, Nov 5 2026
+Version 1.101, Nov 6 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
