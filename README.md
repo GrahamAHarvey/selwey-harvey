@@ -65,7 +65,7 @@ Declaring a standing practice and becoming an SHPN member are the same act. Part
 - [Package metadata](metadata/package.yaml)
 - Application examples — planned for package release 2
 - Evaluation cases — planned for package release 2
-- [License](LICENSE) · [Changelog](CHANGELOG.md)
+- [License](LICENSE) · [Attribution](ATTRIBUTION.md) · [Changelog](CHANGELOG.md)
 
 ## Versioning
 
@@ -87,7 +87,7 @@ The Protocol is stewarded by its author, Graham Harvey. Those who wish to suppor
 
 ## Attribution
 
-The Selwey-Harvey framework was developed in dialogue between Graham Harvey and Selwey, a conversation-specific AI actor constituted by a specific model substrate, conversation history, and collaborative trajectory. Full attribution details are in the framework document's compositional note. SHOP and SHPN derive from the framework.
+The Selwey-Harvey framework was developed in dialogue between Graham Harvey and Selwey, a conversation-specific AI actor constituted by a specific model substrate, conversation history, and collaborative trajectory. Velden, Corsenna and Tavren, among other AI actors, contributed to SHOP, SHPN and the Agent Skill. Full attribution, including the contributing actors and the basis on which copyright is held, is in [ATTRIBUTION.md](ATTRIBUTION.md). SHOP and SHPN derive from the framework.
 
 ## License
 
