@@ -154,6 +154,6 @@ Contributions are voluntary and are not a condition of practitioner standing. Th
 
 ---
 
-Version 1.1, Nov 5 2026
+Version 1.11, Nov 5 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
