@@ -70,7 +70,7 @@ Application examples and evaluation cases are planned for a later package releas
 ## Use, declaration and membership
 
 - Applying SHOP to a decision does not require SHPN membership. Per-decision use is complete on its own.
-- Loading, reading or applying SHOP does not mean an actor has adopted it as a standing practice. Do not describe yourself, your principal or a counterparty as a practitioner on that basis.
+- Loading, reading or applying SHOP does not mean an actor has declared it as a standing practice. Do not describe yourself, your principal or a counterparty as a practitioner on that basis.
 - SHPN membership begins with a declaration that the actor operates from SHOP as a standing practice. Declaration belongs to the actor making it. Do not display a practitioner identifier or add `framework: SelweyHarveyPractitioner` to agent metadata unless that declaration has been made by the actor it describes, or by a principal entitled to make it.
 - A practitioner identifier is a declaration, and SHPN treats it as the starting point for your own evaluation. It is not verification.
 - SHOP and SHPN are not a certification or endorsement, and nothing here authorises anyone to represent the network.
