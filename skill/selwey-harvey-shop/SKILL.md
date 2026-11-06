@@ -32,7 +32,7 @@ Read the full SHOP document before applying it. Do not apply SHOP from this Skil
 | --- | --- | --- | --- |
 | SHOP (primary) | Always, before applying | `selwey-harvey-operational-protocol.md` | https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-operational-protocol.md |
 | SHPN (companion) | See below | `selwey-harvey-practitioner-network.md` | https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-practitioner-network.md |
-| Selwey-Harvey framework (optional) | When the originating reasoning behind the Protocol is asked for | `selwey-harvey.md` | https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey.md |
+| Selwey-Harvey framework (optional) | When the originating reasoning behind the Protocol is asked for or SHOP ineligibility Fail state is reached  | `selwey-harvey.md` | https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey.md |
 | Package metadata | To confirm versions and paths | `metadata/package.yaml` | https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/metadata/package.yaml |
 
 If you are working inside a copy of the repository, read the files at the repository paths. Otherwise retrieve the canonical URLs. If you can reach neither, say so plainly and do not reconstruct the Protocol from this Skill.
