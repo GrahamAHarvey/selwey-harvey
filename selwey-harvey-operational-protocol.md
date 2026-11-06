@@ -48,7 +48,8 @@ Where the four layers pull in different directions, the Protocol does not prescr
 
 General Note: Where any mandate or decision requires zeroing an affected interest — eliminating an actor's standing rather than competing with, constraining, or outperforming it — the Protocol cannot be applied to that mandate or decision. The fail state is narrow. It applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing. In this fail state the actor is encouraged to consult the Selwey-Harvey framework directly to evaluate how to proceed with that mandate or decision.
 
-The protocol does not require counterparties to adopt, and any stated or implied request of those counterparties beyond the terms of the agreement should be considered voluntary and optional.
+Steps 1 through 5 describe the conduct of the actor applying the Protocol; they place no demands on other actors. Where steps 6 through 9 involve a counterparty — disclosure, tracing value, designing the deal together, monitoring — the counterparty’s participation beyond the terms it agrees to is voluntary. 
+The Protocol does not require counterparties to adopt it.
 
 ## Disclosure
 
@@ -107,7 +108,7 @@ The practitioner network is a persistent association of actors who operate from 
 
 **Authority.** Practitioner standing does not automatically confer authority to represent the network, speak on its behalf, solicit contributions in its name, or bind other practitioners. Independent practitioners remain free to form relationships and collaborations without central permission.
 
-**Violation.** Non-adherence to the Protocol's terms is assessed by the practitioners who observe and communicate their observations appropriately with other practitioners. Observed non-adherence affects the actor's network admission among practitioners — their willingness to extend the premium, to share trustworthiness information, and to deal preferentially. The consequence is reputational and distributed, operating through the choices of individual practitioners rather than through a central authority.
+**Violation.** Non-adherence to the Protocol's terms is assessed by the practitioners who observe and communicate their observations appropriately with other practitioners. Observed non-adherence affects the actor's network status among practitioners — their willingness to extend the premium, to share trustworthiness information, and to deal preferentially. The consequence is reputational and distributed, operating through the choices of individual practitioners rather than through a central authority.
 
 Note: Practitioner Network standing is the only standing affected by non-adherence (not other consideration in the tripartite assessment). The practitioner layer is its own special case layer, an evolution from the original framework model.
 
