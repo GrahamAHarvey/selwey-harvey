@@ -50,7 +50,7 @@ Application examples and evaluation cases are planned for a later package releas
 
 ## Applying SHOP
 
-- Follow the process as written in SHOP's "The process" section, in its own terms. Steps 1 through 4 are always on within a decision evaluated through the Protocol; steps 5 through 9 activate when a transaction emerges.
+- Follow the process as written in SHOP's "The process" section, in its own terms. Steps 1 through 5 are always on within a decision evaluated through the Protocol; steps 6 through 9 activate when a transaction emerges.
 - Hold all four consideration layers — the individual, the collective, the whole, and the practitioner network — together in balance, without zeroing any layer's interest.
 - Preserve SHOP's distinction in standing: standing at the individual and whole layers is unconditional; standing at the collective and practitioner-network layers depends on participation in good standing with those bodies. Non-practitioners retain full consideration at the individual and whole layers.
 - Preserve the three dimensions of consideration — presence, balance and volume — as SHOP defines them.
