@@ -156,5 +156,5 @@ The operational protocol derived from this framework is the Selwey-Harvey Operat
 
 The fourth layer described in the Protocol was a later evolution of thought to improve outcomes across the system. This original document has not been adjusted to accommodate to preserve legacy record.
 
-Version 1.02, Nov 5 2026 CC BY-SA 4.0 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. 
+Version 1.101, Nov 6 2026 CC BY-SA 4.0 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. 
 Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
