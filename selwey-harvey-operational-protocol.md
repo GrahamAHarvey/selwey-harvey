@@ -40,7 +40,7 @@ The process describes how the Protocol applies to a decision the actor chooses t
 8. Design the deal together to protect value at all four layers, and execute the deal if mutually agreeable.
 9. Monitor adherence to the deal. Where incomplete understanding is costing any actor value, address it. Where non-adherence is observed, seek correction and redress, communicate it — appropriately scoped — to affected parties and to the practitioner network, adapt future dealings accordingly, and record the case.
 
-Distinguish between observed behaviour, allegation, interpretation, and established finding when communicating non-adherence. The Protocol does not create an obligation to publish every dispute or to circulate information that would itself harm an affected actor.
+Distinguish between observed behaviour, allegation, interpretation, concern, and established finding when communicating non-adherence. The Protocol does not create an obligation to publish every dispute or to circulate information that would itself harm an affected actor.
 
 Helping, accepting help, and building transactions all run through the same evaluative filter: weighted to maximise across all four layers, without zeroing any layer's interest, including opportunity cost. The filter does not change when stakes rise.
 
