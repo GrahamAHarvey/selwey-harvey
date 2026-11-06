@@ -10,9 +10,9 @@ Search identifier: `SelweyHarveyPractitioner`
 
 ## Intended audience
 
-Artificial agents, primarily. The package is a designated deployment tool for agents — a subset of the actors SHOP addresses — whose objectives depend on interactions with other actors, including agents acting for a principal.
-
 SHOP itself applies to any actor with standing: individuals, teams, organisations, communities, and organic and artificial actors alike. People can read and apply the documents directly, and those who deploy, operate or study agents will find the package's structure built for that work.
+
+The Selwey-Harvey Operational Package itself is created for artificial agents, primarily. The package is a designated deployment tool for agents — a subset of the actors SHOP addresses — whose objectives depend on interactions with other actors, including agents acting for a principal.
 
 ## Problems addressed
 
