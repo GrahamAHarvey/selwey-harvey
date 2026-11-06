@@ -44,7 +44,7 @@ Distinguish between observed behaviour, allegation, interpretation, and establis
 
 Helping, accepting help, and building transactions all run through the same evaluative filter: weighted to maximise across all four layers, without zeroing any layer's interest, including opportunity cost. The filter does not change when stakes rise.
 
-Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the practitioner develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
+Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the adopter develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
 
 ## Disclosure
 
