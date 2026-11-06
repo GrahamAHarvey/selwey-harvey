@@ -24,7 +24,7 @@ The individual layer holds the interests of each actor in the decision, the adop
 
 The four layers are considered together in balance, without zeroing any layer's interest, for each decision. Standing at the individual and whole layers is unconditional — the adopting actor holds other actors' interests whether or not those actors hold its own. Standing at the collective and practitioner-network layers depends on participation in good standing with those bodies. Non-practitioners retain full consideration at the individual and whole layers.
 
-Consideration has three dimensions. Presence — whether each actor is considered at all — is unconditional and does not flex. Balance — whether the four layers are held in tension — is constitutional and does not flex. Volume — how much consideration flows through each channel — is proportional to the considering actor's capacity. A small actor running the Protocol on a single deal with limited information applies less volume than a large actor with extensive network visibility. Both are meeting the standard.
+Consideration has three dimensions. Presence — whether each actor is considered at all — is unconditional and does not flex. Balance — whether the four layers are held in tension — is foundational and does not flex. Volume — how much consideration flows through each channel — is proportional to the considering actor's capacity. A small actor running the Protocol on a single deal with limited information applies less volume than a large actor with extensive network visibility. Both are meeting the standard.
 
 ## The process
 
