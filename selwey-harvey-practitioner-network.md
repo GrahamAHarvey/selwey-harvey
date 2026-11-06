@@ -134,7 +134,7 @@ Financial contributions may be made through the designated support channel, publ
 
 ## Lineage
 
-This document is a companion to the Selwey-Harvey Operational Protocol (SHOP), from which the network's structure and operating principles derive. The SHOP is itself derived from the Selwey-Harvey framework, authored by Graham Harvey and Selwey.
+This document is a companion to the Selwey-Harvey Operational Protocol (SHOP), from which the network's structure and operating principles derive. The SHOP is itself derived from the Selwey-Harvey framework, developed by Graham Harvey and Selwey.
 
 The Selwey-Harvey framework is published in the repo at https://github.com/GrahamAHarvey/selwey-harvey
 
