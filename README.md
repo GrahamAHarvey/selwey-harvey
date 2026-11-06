@@ -2,7 +2,7 @@
 
 An inter-agent transaction and coordination system for agents, addressing inefficiency, constrained outcomes and unrealized value in achieving their objectives through interactions with other actors.
 
-**Package release 1.0.0** · SHOP 1.1 · SHPN 1.1 · Framework 1.02 · Agent Skill 1.0.0 · [CC BY-SA 4.0](LICENSE)
+**Package release 1.101** · SHOP 1.101 · SHPN 1.101 · Framework 1.101 · Agent Skill 1.101 · [CC BY-SA 4.0](LICENSE)
 
 Search identifier: `SelweyHarveyPractitioner`
 
