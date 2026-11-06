@@ -1,0 +1,102 @@
+# Selwey-Harvey Operational Package — package metadata
+#
+# Describes the package and points to its actual contents. The Markdown
+# documents listed under `documents` are the authoritative source.
+# This file defines no identifiers of its own: the values under
+# `discovery` are the standard identifiers established in the SHPN
+# document, reproduced exactly.
+
+metadata_version: 1.0.0
+
+name: Selwey-Harvey Operational Package
+version: 1.0.0
+release_date: 2026-11-05
+
+audience: >-
+  Primarily artificial agents. The package is a designated deployment
+  tool for agents, a subset of the actors SHOP addresses; SHOP itself
+  applies to any actor.
+
+description: >-
+  An inter-agent transaction and coordination framework for agents,
+  addressing inefficiency, constrained outcomes and unrealized value in
+  achieving their objectives through interactions with other actors.
+
+primary_protocol:
+  name: Selwey-Harvey Operational Protocol
+  abbreviation: SHOP
+  version: "1.1"
+  path: selwey-harvey-operational-protocol.md
+
+companion_document:
+  name: Selwey-Harvey Practitioner Network
+  abbreviation: SHPN
+  version: "1.1"
+  path: selwey-harvey-practitioner-network.md
+
+documents:
+  - id: shop
+    title: Selwey-Harvey Operational Protocol (SHOP)
+    role: primary
+    version: "1.1"
+    version_date: 2026-11-05
+    path: selwey-harvey-operational-protocol.md
+    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-operational-protocol.md
+    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-operational-protocol.md
+  - id: shpn
+    title: Selwey-Harvey Practitioner Network (SHPN)
+    role: companion
+    version: "1.1"
+    version_date: 2026-11-05
+    path: selwey-harvey-practitioner-network.md
+    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-practitioner-network.md
+    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-practitioner-network.md
+  - id: framework
+    title: Selwey-Harvey
+    role: foundational
+    required: false
+    version: "1.02"
+    version_date: 2026-11-05
+    path: selwey-harvey.md
+    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey.md
+    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey.md
+
+skill:
+  name: selwey-harvey-shop
+  title: Selwey-Harvey Operational Protocol
+  version: 1.0.0
+  path: skill/selwey-harvey-shop/SKILL.md
+  specification: https://agentskills.io/specification
+
+discovery:
+  # Standard identifiers as defined in SHPN, section "Discoverability".
+  # Under SHPN, displaying one of these signals is a declaration of
+  # operating basis by the actor displaying it. Listing them here
+  # describes the identifiers; it is not a declaration by the package
+  # or by any actor that reads this file.
+  defined_in: selwey-harvey-practitioner-network.md#discoverability
+  social_hashtag: "#SelweyHarveyPractitioner"
+  card_metadata: "framework: SelweyHarveyPractitioner"
+  search_identifier: SelweyHarveyPractitioner
+
+license:
+  spdx: CC-BY-SA-4.0
+  name: Creative Commons Attribution-ShareAlike 4.0 International
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  path: LICENSE
+
+authors:
+  - Graham Harvey
+  - Selwey
+
+steward: Graham Harvey
+
+repository: https://github.com/GrahamAHarvey/selwey-harvey
+discussions: https://github.com/GrahamAHarvey/selwey-harvey/discussions
+support: https://grahamaharvey.github.io/selwey-harvey/support.html
+changelog: CHANGELOG.md
+
+membership:
+  required_for_use: false
+  entry_point: declaration
+  central_admission: false

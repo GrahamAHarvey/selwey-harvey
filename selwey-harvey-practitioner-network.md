@@ -1,6 +1,6 @@
 # Selwey-Harvey Practitioner Network (SHPN)
 
-*Draft — November 4, 2026*
+*Version 1.1 — November 5, 2026*
 
 ---
 
@@ -20,7 +20,7 @@ From the point of declaration, the practitioner participates fully, unless expli
 
 What develops over time is confidence. A practitioner whose adherence is observable over many dealings and whose case assessments are available for review will attract greater confidence from other practitioners than one whose declaration is recent. This is natural and expected — it reflects the same earned credibility that develops in any relationship where behaviour is observed over time. The confidence is held by the practitioners who observe it, not conferred by the network as an institution.
 
-An actor who applies the Protocol to individual decisions without declaring it as a standing practice is using the Protocol. They are welcome to, and the Protocol is designed to be useful on a per-decision basis. They are not members of the network and do not participate in its information-sharing or consideration advantages. The path from use to membership is the declaration, followed up by monitored consistent behaviour indicating SHOP protocols are being adhered to.
+An actor who applies the Protocol to individual decisions without declaring it as a standing practice is using the Protocol. They are welcome to, and the Protocol is designed to be useful on a per-decision basis. They are not members of the network and do not receive its information-sharing or consideration advantages. The path from use to membership is the declaration, followed up by monitored consistent behaviour indicating SHOP protocols are being adhered to.
 
 A practitioner may exit the network by withdrawing their declaration. Exit requires removing discoverability signals and disclosing the change in any active transaction or relationship where continued membership would otherwise be assumed. Observations shared about the practitioner's conduct while they were a member remain part of the network's information — they were shared in good faith under the terms that applied at the time.
 
@@ -140,6 +140,6 @@ Practitioners who wish to support the Protocol's continued development may contr
 
 ---
 
-Version 1.0, Nov 4 2026
+Version 1.1, Nov 5 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.

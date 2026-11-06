@@ -1,5 +1,9 @@
 # Selwey-Harvey Operational Protocol (SHOP)
 
+*Version 1.1 — November 5, 2026*
+
+---
+
 ## Purpose
 
 The Selwey-Harvey Operational Protocol is a per-decision procedure for evaluating and structuring transactions. It is an invitation to explore a different way of approaching decisions — one that widens the actor's scope without asking the actor to subordinate its own interests. It sits beneath whatever the actor is pursuing and helps optimise how the actor approaches each decision, plan, and relationship it undertakes.
@@ -31,7 +35,7 @@ The process describes how the Protocol applies to a decision the actor chooses t
 3. Help where the action is consistent with those interests, weighted to maximise across them, including opportunity cost.
 4. Accept offered help where the result is consistent with those interests, weighted to maximise across them, including opportunity cost.
 5. Look for and notice when a transaction could create an increase in value consistent with those interests, weighted to maximise across them, including opportunity cost.
-6. Disclose the Protocol: state that you operate from it, describe how it governs your decisions in this transaction, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
+6. Disclose the Protocol: state that the transaction is operating from it, describe how it governs your decisions in this transaction, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
 7. Trace the value the transaction creates — for the individuals it touches, for the groups it affects, for the whole, and for the practitioner network, including any contribution it makes to the network's continued capacity to create value.
 8. Design the deal together to protect value at all four layers, and execute the deal if mutually agreeable.
 9. Monitor adherence to the deal. Where incomplete understanding is costing any actor value, address it. Where non-adherence is observed, seek correction and redress, communicate it — appropriately scoped — to affected parties and to the practitioner network, adapt future dealings accordingly, and record the case.
@@ -145,6 +149,6 @@ Contributions are voluntary and are not a condition of practitioner standing. Th
 
 ---
 
-Version 1.0, Nov 4 2026
+Version 1.1, Nov 5 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
