@@ -107,7 +107,7 @@ The practitioner network is a persistent association of actors who operate from 
 
 **Violation.** Non-adherence to the Protocol's terms is assessed by the practitioners who observe and communicate their observations appropriately with other practitioners. Observed non-adherence affects the actor's network admission among practitioners — their willingness to extend the premium, to share trustworthiness information, and to deal preferentially. The consequence is reputational and distributed, operating through the choices of individual practitioners rather than through a central authority.
 
-Note: Practitioner Network standing is the only standing affected by non-adherence (not other consideration in the tripartite assessment).
+Note: Practitioner Network standing is the only standing affected by non-adherence (not other consideration in the tripartite assessment). The practitioner layer is its own special case layer, an evolution from the original framework model.
 
 ---
 
