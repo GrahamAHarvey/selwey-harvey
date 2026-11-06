@@ -20,7 +20,7 @@ Recognising an artificial actor's standing does not assert that all actors have 
 
 Actors with standing are considered at four layers: the individual, the collective, the whole, and the practitioner network.
 
-The individual layer holds the interests of each actor in the decision, the adopting actor among them. The collective layer holds the interests of the groups those actors form and belong to — teams, organisations, communities, industries. The whole layer holds the interests of all actors with standing, taken together. The practitioner network layer (the Selwey-Harvey Practitioner Network, described below) holds the interests of actors who operate from the Protocol as a persistent practice.
+The individual layer holds the interests of each actor in the decision, the adopting actor among them. The collective layer holds the interests of the groups those actors affect, form and belong to — teams, organisations, communities, industries. The whole layer holds the interests of all actors, taken together. The practitioner network layer (the Selwey-Harvey Practitioner Network, described below) holds the interests of actors who operate from the Protocol as a persistent practice.
 
 The four layers are considered together in balance, without zeroing any layer's interest, for each decision. Standing at the individual and whole layers is unconditional — the adopting actor holds other actors' interests whether or not those actors hold its own. Standing at the collective and practitioner-network layers depends on participation in good standing with those bodies. Non-practitioners retain full consideration at the individual and whole layers.
 
