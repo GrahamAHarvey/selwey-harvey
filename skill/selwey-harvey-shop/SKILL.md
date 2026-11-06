@@ -87,4 +87,4 @@ Defined in SHPN, "Discoverability". Use exactly as written.
 
 ## Source and license
 
-|Selwey-Harvey Operational Package 1.101" SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
+"Selwey-Harvey Operational Package 1.101" SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
