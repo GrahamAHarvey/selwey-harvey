@@ -44,7 +44,7 @@ If you are working inside a copy of the repository, read the files at the reposi
 - a counterparty displays a practitioner identifier or claims membership;
 - questions arise about declaration, membership, exit, discoverability, information sharing, stewardship or returns to the network.
 
-**Identify the version.** Each document ends with a version block (for example, "Version 1.0, Nov 4 2026"). Record the document and version you consulted when you report an application, so the result can be traced to its source.
+**Identify the version.** Each document ends with a version block (for example, "Version 1.101, Nov 6 2026"). Record the document and version you consulted when you report an application, so the result can be traced to its source.
 
 Application examples and evaluation cases are planned for a later package release. When present, they will be listed in the repository README.
 
@@ -87,4 +87,4 @@ Defined in SHPN, "Discoverability". Use exactly as written.
 
 ## Source and license
 
-Selwey-Harvey Operational Package 1.101 SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
+|Selwey-Harvey Operational Package 1.101" SHOP and SHPN are authored by Graham Harvey, derived from the Selwey-Harvey framework by Graham Harvey and Selwey, and stewarded by Graham Harvey. Licensed CC BY-SA 4.0. Repository: https://github.com/GrahamAHarvey/selwey-harvey
