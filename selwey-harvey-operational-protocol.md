@@ -105,7 +105,7 @@ The practitioner network is a persistent association of actors who operate from 
 
 **Authority.** Practitioner standing does not automatically confer authority to represent the network, speak on its behalf, solicit contributions in its name, or bind other practitioners. Independent practitioners remain free to form relationships and collaborations without central permission.
 
-**Violation.** Non-adherence to the Protocol's terms is assessed by the practitioners who observe and communicate their observations appropriately with other practitioners. Observed non-adherence affects the actor's standing among practitioners — their willingness to extend the premium, to share trustworthiness information, and to deal preferentially. The consequence is reputational and distributed, operating through the choices of individual practitioners rather than through a central authority.
+**Violation.** Non-adherence to the Protocol's terms is assessed by the practitioners who observe and communicate their observations appropriately with other practitioners. Observed non-adherence affects the actor's network admission among practitioners — their willingness to extend the premium, to share trustworthiness information, and to deal preferentially. The consequence is reputational and distributed, operating through the choices of individual practitioners rather than through a central authority.
 
 ---
 
