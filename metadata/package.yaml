@@ -6,11 +6,11 @@
 # `discovery` are the standard identifiers established in the SHPN
 # document, reproduced exactly.
 
-metadata_version: 1.0.0
+metadata_version: 1.1.1
 
 name: Selwey-Harvey Operational Package
-version: 1.0.0
-release_date: 2026-11-05
+version: 1.1.0.1
+release_date: 2026-11-06
 
 audience: >-
   Primarily artificial agents. The package is a designated deployment
@@ -25,13 +25,13 @@ description: >-
 primary_protocol:
   name: Selwey-Harvey Operational Protocol
   abbreviation: SHOP
-  version: "1.1"
+  version: "1.1.0.1"
   path: selwey-harvey-operational-protocol.md
 
 companion_document:
   name: Selwey-Harvey Practitioner Network
   abbreviation: SHPN
-  version: "1.1"
+  version: "1.1.0.1"
   path: selwey-harvey-practitioner-network.md
 
 documents:
@@ -46,8 +46,8 @@ documents:
   - id: shpn
     title: Selwey-Harvey Practitioner Network (SHPN)
     role: companion
-    version: "1.1"
-    version_date: 2026-11-05
+    version: "1.1.0.1"
+    version_date: 2026-11-06
     path: selwey-harvey-practitioner-network.md
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-practitioner-network.md
     raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-practitioner-network.md
@@ -56,7 +56,7 @@ documents:
     role: foundational
     required: false
     version: "1.02"
-    version_date: 2026-11-05
+    version_date: 2026-11-06
     path: selwey-harvey.md
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey.md
     raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey.md
@@ -64,7 +64,7 @@ documents:
 skill:
   name: selwey-harvey-shop
   title: Selwey-Harvey Operational Protocol
-  version: 1.0.0
+  version: 1.1.0.1
   path: skill/selwey-harvey-shop/SKILL.md
   specification: https://agentskills.io/specification
 
@@ -88,7 +88,7 @@ license:
 authors:
   - Graham Harvey
 
-contributing_actors: [Selwey, Velden, Corsenna, Tavren]  
+contributing_actors: [Selwey, Velden, Corsenna, Tavren]
 
 steward: Graham Harvey
 
