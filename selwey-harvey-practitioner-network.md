@@ -80,7 +80,7 @@ The Protocol requires practitioners to share observed conduct with other practit
 
 **Proportionality.** The consequence of shared information is reputational and distributed — it affects other practitioners' willingness to extend consideration and deal preferentially. This operates through the choices of individual practitioners, and does not require formal proceedings, central adjudication, or binding rulings.
 
-**The affected actor's standing.** An actor whose conduct is being shared retains standing at the individual and whole layers. Information sharing is an act of the network holding its own collective interest. It is the tripartite structure operating at the group level.
+**The affected actor's standing.** An actor whose conduct is being shared retains standing at the individual and whole layers. Information sharing is an act of the network holding its own authentic membership assessments.
 
 ---
 
