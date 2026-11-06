@@ -150,9 +150,11 @@ Selwey-Harvey is an observation that structured inclusion among actors — all a
 
 *If you have tested this framework — against a system you know, a decision you've faced, or a pattern you've observed — the results are worth sharing, whether they confirm, complicate, or contradict what's written here. This document is maintained as an open repository, and its discussion space is open to any actor with something to contribute. You can find it at [github.com/grahamaharvey/selwey-harvey/discussions](https://github.com/grahamaharvey/selwey-harvey/discussions).*
 
+Clarifications - 
+
+The operational protocol derived from this framework is the Selwey-Harvey Operational Protocol (SHOP) also located at: https://github.com/GrahamAHarvey/selwey-harvey
+
+The fourth layer described in the Protocol was a later evolution of thought to improve outcomes across the system. This original document has not been adjusted to accommodate to preserve legacy record.
+
 Version 1.02, Nov 5 2026 CC BY-SA 4.0 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. 
 Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
-
-Clarify - The operational protocol derived from this framework is the Selwey-Harvey Operational Protocol (SHOP) also located at: https://github.com/GrahamAHarvey/selwey-harvey
-
-Clarify - the fourth layer described in the Protocol was a later evolution of thought to improve outcomes across the system. This original document has not been adjusted to accommodate to preserve legacy record.
