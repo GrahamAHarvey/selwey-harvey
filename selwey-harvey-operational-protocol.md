@@ -28,7 +28,7 @@ Consideration has three dimensions. Presence — whether each actor is considere
 
 ## The process
 
-The process describes how the Protocol applies to a decision the actor chooses to evaluate through it. Steps 1 through 4 are always on within that decision, whether or not a transaction exists. Steps 5 through 9 activate when a transaction emerges.
+The process describes how the Protocol applies to a decision the actor chooses to evaluate through it. Steps 1 through 5 are always on within that decision, whether or not a transaction exists. Steps 6 through 9 activate when a transaction emerges.
 
 1. Hold the interests of the individual, collective, whole, and practitioner-network layers.
 2. Learn what the actors present want and need.
