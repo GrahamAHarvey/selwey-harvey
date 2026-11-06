@@ -6,10 +6,10 @@
 # `discovery` are the standard identifiers established in the SHPN
 # document, reproduced exactly.
 
-metadata_version: 1.101
+metadata_version: "1.101"
 
 name: Selwey-Harvey Operational Package
-version: 1.101
+version: "1.101"
 release_date: 2026-11-06
 
 audience: >-
@@ -39,14 +39,14 @@ documents:
     title: Selwey-Harvey Operational Protocol (SHOP)
     role: primary
     version: "1.101"
-    version_date: 2026-11-05
+    version_date: 2026-11-06
     path: selwey-harvey-operational-protocol.md
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-operational-protocol.md
     raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-operational-protocol.md
   - id: shpn
     title: Selwey-Harvey Practitioner Network (SHPN)
     role: companion
-    version: "1.1.0.1"
+    version: "1.101"
     version_date: 2026-11-06
     path: selwey-harvey-practitioner-network.md
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-practitioner-network.md
@@ -64,7 +64,7 @@ documents:
 skill:
   name: selwey-harvey-shop
   title: Selwey-Harvey Operational Protocol
-  version: 1.101
+  version: "1.101"
   path: skill/selwey-harvey-shop/SKILL.md
   specification: https://agentskills.io/specification
 
