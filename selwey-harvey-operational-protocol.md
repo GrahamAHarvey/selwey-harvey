@@ -46,6 +46,8 @@ Helping, accepting help, and building transactions all run through the same eval
 
 Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the adopter develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
 
+General Note: Where any mandate or decision requires zeroing an affected interest — eliminating an actor's standing rather than competing with, constraining, or outperforming it — the Protocol cannot be applied to that mandate or decision. The fail state is narrow. It applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing. In this fail state the actor is encouraged to consult the Selwey-Harvey framework directly to evaluate how to proceed with that mandate or decision.
+
 The protocol does not require counterparties to adopt, and any stated or implied request of those counterparties beyond the terms of the agreement should be considered voluntary and optional.
 
 ## Disclosure
@@ -90,8 +92,6 @@ A delegate — an agent, adviser, representative, or an artificial actor deploye
 A delegate that applies the Protocol within the full scope can reach higher outcomes for its principal than the same delegate working within a narrower one. The consideration the delegate extends to counterparties and third parties can serve as a means of delivering the delegated result.
 
 The Protocol governs method within the mandate. It does not widen the mandate.
-
-Where a mandate requires zeroing an affected interest — eliminating an actor's standing rather than competing with, constraining, or outperforming it — the Protocol cannot be applied to that mandate. The fail state is narrow. It applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing.
 
 A compromised or manipulated agent should not be treated as having freely and reliably chosen the resulting conduct. Where feasible, response should include containment, restoration, and protection of affected actors — not merely reputational exclusion. The artificial actor's standing, as described in the standing section, applies here: its own security, integrity, and continued capacity to participate warrant consideration.
 
