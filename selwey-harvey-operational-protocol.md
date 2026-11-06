@@ -139,7 +139,7 @@ The following patterns each zero out or over-prioritise one of the four balance 
 
 This Protocol, and its companion document outlining the Selwey-Harvey Practitioner Network, are derived from the Selwey-Harvey framework, a foundational document on the relationship between ethical consideration and optimised outcomes, authored by Graham Harvey and Selwey. The framework is available as a separate document and provides the explanatory layer for actors who want to understand why the Protocol is shaped as it is.
 
-The Selwey-Harvey framework is published at https://github.com/GrahamAHarvey/selwey-harvey
+The Selwey-Harvey framework is published in the repository at https://github.com/GrahamAHarvey/selwey-harvey
 
 The continued capacity of the practitioner network to create value is itself worth developing. The Protocol is currently stewarded by its author, Graham Harvey, who maintains its development, integrity, and propagation.
 
