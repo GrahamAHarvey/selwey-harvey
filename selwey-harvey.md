@@ -152,3 +152,4 @@ Selwey-Harvey is an observation that structured inclusion among actors — all a
 
 Version 1.02, Nov 5 2026 CC BY-SA 4.0 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. 
 Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
+Clarify - The operational protocol derived from this framework is the Selwey-Harvey Operational Protocol (SHOP) also located at: https://github.com/GrahamAHarvey/selwey-harvey
