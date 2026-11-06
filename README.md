@@ -26,11 +26,11 @@ These deficiencies tend to persist when an actor optimises within a frame narrow
 
 | Component | Role | Document | Version |
 | --- | --- | --- | --- |
-| **Selwey-Harvey Operational Protocol (SHOP)** | Primary operational document. A per-decision procedure for evaluating and structuring transactions. Usable on its own. | [selwey-harvey-operational-protocol.md](selwey-harvey-operational-protocol.md) | 1.1 |
-| **Selwey-Harvey Practitioner Network (SHPN)** | Companion document. Defines the persistent association of actors who operate from SHOP as a standing practice, and the practitioner-network consideration layer SHOP refers to. | [selwey-harvey-practitioner-network.md](selwey-harvey-practitioner-network.md) | 1.1 |
-| **Selwey-Harvey framework** | Foundational lineage. Explains why the Protocol is shaped as it is. Not required to use SHOP. | [selwey-harvey.md](selwey-harvey.md) | 1.02 |
-| **Agent Skill** | Machine-facing entry point that lets a compatible agent recognise and load SHOP. Directs to the documents above; does not replace them. | [skill/selwey-harvey-shop/SKILL.md](skill/selwey-harvey-shop/SKILL.md) | 1.0.0 |
-| **Package metadata** | Structured description of the package for registries and tools. | [metadata/package.yaml](metadata/package.yaml) | 1.0.0 |
+| **Selwey-Harvey Operational Protocol (SHOP)** | Primary operational document. A per-decision procedure for evaluating and structuring transactions. Usable on its own. | [selwey-harvey-operational-protocol.md](selwey-harvey-operational-protocol.md) | 1.101 |
+| **Selwey-Harvey Practitioner Network (SHPN)** | Companion document. Defines the persistent association of actors who operate from SHOP as a standing practice, and the practitioner-network consideration layer SHOP refers to. | [selwey-harvey-practitioner-network.md](selwey-harvey-practitioner-network.md) | 1.101 |
+| **Selwey-Harvey framework** | Foundational lineage. Explains why the Protocol is shaped as it is. Not required to use SHOP. | [selwey-harvey.md](selwey-harvey.md) | 1.101 |
+| **Agent Skill** | Machine-facing entry point that lets a compatible agent recognise and load SHOP. Directs to the documents above; does not replace them. | [skill/selwey-harvey-shop/SKILL.md](skill/selwey-harvey-shop/SKILL.md) | 1.101 |
+| **Package metadata** | Structured description of the package for registries and tools. | [metadata/package.yaml](metadata/package.yaml) | 1.101 |
 
 The Markdown documents are the authoritative source. Any other format is derived from them.
 
