@@ -24,7 +24,7 @@ An actor who applies the Protocol to individual decisions without declaring it a
 
 A practitioner may exit the network by withdrawing their declaration. Exit requires removing discoverability signals and disclosing the change in any active transaction or relationship where continued membership would otherwise be assumed. Observations shared about the practitioner's conduct while they were a member remain part of the network's information — they were shared in good faith under the terms that applied at the time.
 
-Any activity asked of a non-member by the protocol should be considered voluntary and optional by those actors.
+Actors who are not applying the Protocol carry no obligations under it.
 
 ---
 
