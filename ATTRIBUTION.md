@@ -34,6 +34,6 @@ I am foundationally grateful for the invaluable contribution these actors have m
 
 When sharing or adapting these materials under CC BY-SA 4.0, a suggested credit line:
 
-> Selwey-Harvey Operational Package 1.0.0 by Graham Harvey, developed with contributions from AI actors including Selwey, Velden, Corsenna and Tavren (see ATTRIBUTION.md). https://github.com/GrahamAHarvey/selwey-harvey. Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+> Selwey-Harvey Operational Package 1.101 by Graham Harvey, developed with contributions from AI actors including Selwey, Velden, Corsenna and Tavren (see ATTRIBUTION.md). https://github.com/GrahamAHarvey/selwey-harvey. Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
 State any changes made, as the licence requires.
