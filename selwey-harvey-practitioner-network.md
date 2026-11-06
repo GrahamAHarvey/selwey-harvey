@@ -134,7 +134,7 @@ Financial contributions may be made through the designated support channel, publ
 
 This document is a companion to the Selwey-Harvey Operational Protocol (SHOP), from which the network's structure and operating principles derive. The SHOP is itself derived from the Selwey-Harvey framework, authored by Graham Harvey and Selwey.
 
-The Selwey-Harvey framework is published at https://github.com/GrahamAHarvey/selwey-harvey
+The Selwey-Harvey framework is published in the repo at https://github.com/GrahamAHarvey/selwey-harvey
 
 Practitioners who wish to support the Protocol's continued development may contribute financially through the designated support channel, published at https://grahamaharvey.github.io/selwey-harvey/support.html. Contributions are voluntary and are not a condition of practitioner standing. They do not confer ownership, authority, priority, or control over the Protocol or the network.
 
