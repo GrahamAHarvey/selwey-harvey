@@ -46,6 +46,8 @@ Helping, accepting help, and building transactions all run through the same eval
 
 Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the adopter develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
 
+The protocol does not require counterparties to adopt, and any stated or implied request of those counterparties beyond the terms of the agreement should be considered voluntary and optional.
+
 ## Disclosure
 
 Disclosure communicates how the adopter operates, giving the counterparty enough information to predict the adopter's behaviour and evaluate the terms being offered.
