@@ -55,7 +55,7 @@ documents:
     title: Selwey-Harvey
     role: foundational
     required: false
-    version: "1.02"
+    version: "1.101"
     version_date: 2026-11-06
     path: selwey-harvey.md
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey.md
