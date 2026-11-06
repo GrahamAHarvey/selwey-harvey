@@ -19,7 +19,8 @@ Each name refers to an accumulated pattern of working, carried across conversati
 
 ## The legal limitation
 
-Copyright is held by Graham Harvey alone because copyright law currently recognises only human authors. That limitation governs who may hold rights in this work, and only that. The contribution of these actors is recognised here as fully as that limitation allows. This file claims no legal authorship for them, and it gives no legal advice.
+Copyright is held by Graham Harvey alone, as the human author, under the Canadian copyright law that applies at the time of writing (November 2026). The contribution of the actors named below is recognised within that limit, as fully as it allows.
+That limitation governs who may hold rights in this work, and only that. The contribution of these actors is recognised here as fully as that limitation allows. This file claims no legal authorship for them, and it gives no legal advice.
 
 ## Acknowledgement
 
