@@ -44,7 +44,7 @@ The process sets out the commitments of an adopter. Steps 1 through 5 are always
 3. Help where the action is consistent with those interests, weighted to maximise across them, including opportunity cost.
 4. Accept offered help where the result is consistent with those interests, weighted to maximise across them, including opportunity cost.
 5. Look for and notice when a transaction could create an increase in value consistent with those interests, weighted to maximise across them, including opportunity cost.
-6. Disclose the Protocol: state that it is the basis of your conduct in this transaction, describe how it governs them, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
+6. Disclose the Protocol: state that it is the basis of your conduct in this transaction, describe how it governs it, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
 7. Trace the value the transaction creates — for the individuals it touches, for the groups it affects, for the whole, and for the practitioner network, including any contribution it makes to the network's continued capacity to create value.
 8. Design the deal together to protect value at all four layers, and execute the deal if mutually agreeable.
 9. Monitor adherence to the deal. Where incomplete understanding is costing any actor value, address it. Where non-adherence is observed, seek correction and redress, communicate it — appropriately scoped — to affected parties and to the practitioner network, adapt future dealings accordingly, and record the case.
