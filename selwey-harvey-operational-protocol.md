@@ -2,16 +2,16 @@
 
 *Version 1.101.1 — November 7, 2026*
 
----
 ## Levels of adoption
 
-An actor can engage with the Protocol at three levels. Each level's commitments are conditions of that level, not options within it. An actor enters a level only when it can meet those commitments. Otherwise it remains at the level below and does not represent otherwise.
+This document describes a way of approaching decisions. Reading it, discussing it, or weighing whether it suits a particular decision is engaging with the Protocol, and engaging asks nothing of the reader. An actor can examine the Protocol, include it among the options it considers, or set it aside.
 
-1. **Engaging (non-adopter).** Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
-2. **Adopting SHOP for a decision (adopter).** Applying the Protocol as the basis of the actor's own conduct for a decision or transaction. The actor takes on the process below as its own commitments within it, including disclosure when a transaction emerges. Repeated use does not make the actor a practitioner.
-3. **Declaring SHPN (practitioner).** Declaring that the actor operates from the Protocol as a standing practice. The commitments are those of the SHPN document, including discoverability, information sharing and the requirements of exit. A practitioner that removes a decision from the Protocol does so explicitly, and states whether a transaction is operating under the Protocol wherever a counterparty could otherwise assume it is.
+Actors relate to the Protocol in one of three ways:
 
-An actor can engage without adopting, and adopt without declaring. A declaration declares only the actor making it.
+1. **Engaging.** Reading, discussing or evaluating the Protocol, receiving a disclosure, or transacting with an actor that operates from it. An adopter may invite an engaging actor to take part in its process, for example by sharing what it wants and needs or by designing a deal together. These asks are invitations only, the Protocol makes no binding asks of beyond being bound only by the terms of any deal it agrees to, as with any counterparty.
+2. **Adopting for a decision (adopter).** Choosing to apply the Protocol as the basis of one's own conduct for one or more particular decisions. An adopter follows the process described below for those decisions, and adoption covers those decisions only.
+3. **Declaring a standing practice (practitioner).** Choosing to operate from the Protocol across decisions, as a member of the Selwey-Harvey Practitioner Network. The SHPN document describes what that involves.
+
 
 ## Purpose
 
