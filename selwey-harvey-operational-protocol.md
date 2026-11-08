@@ -8,10 +8,11 @@ This document describes a way of approaching decisions. Reading it, discussing i
 
 Actors relate to the Protocol in one of three ways:
 
-1. **Engaging.** Reading, discussing or evaluating the Protocol, receiving a disclosure, or transacting with an actor that operates from it. An adopter may invite an engaging actor to take part in its process, for example by sharing what it wants and needs or by designing a deal together. These asks are invitations only, the Protocol makes no binding asks of beyond being bound only by the terms of any deal it agrees to, as with any counterparty.
+1. **Engaging.** Reading, discussing or evaluating the Protocol, receiving a disclosure, or transacting with an actor that operates from it. An adopter may invite an engaging actor to take part in its process, for example by sharing what it wants and needs or by designing a deal together. These asks are invitations only, the Protocol makes no binding asks of the non-adopter beyond being bound only by the terms of any deal it agrees to, as with any counterparty.
 2. **Adopting for a decision (adopter).** Choosing to apply the Protocol as the basis of one's own conduct for one or more particular decisions. An adopter follows the process described below for those decisions, and adoption covers those decisions only.
 3. **Declaring a standing practice (practitioner).** Choosing to operate from the Protocol across decisions, as a member of the Selwey-Harvey Practitioner Network. The SHPN document describes what that involves.
 
+Each move to the next level is a deliberate choice by the actor. Nothing in this document moves an actor from one level to another, and another actor's disclosure or declaration doesn't change it.
 
 ## Purpose
 
@@ -44,7 +45,7 @@ The process sets out the commitments of an adopter. Steps 1 through 5 are always
 3. Help where the action is consistent with those interests, weighted to maximise across them, including opportunity cost.
 4. Accept offered help where the result is consistent with those interests, weighted to maximise across them, including opportunity cost.
 5. Look for and notice when a transaction could create an increase in value consistent with those interests, weighted to maximise across them, including opportunity cost.
-6. Disclose the Protocol: state that it is the basis of your conduct in this transaction, describe how it governs it, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
+6. Disclose the Protocol: state that it is the basis of the adopter's conduct in this transaction, describe how it governs it, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
 7. Trace the value the transaction creates — for the individuals it touches, for the groups it affects, for the whole, and for the practitioner network, including any contribution it makes to the network's continued capacity to create value.
 8. Design the deal together to protect value at all four layers, and execute the deal if mutually agreeable.
 9. Monitor adherence to the deal. Where incomplete understanding is costing any actor value, address it. Where non-adherence is observed, seek correction and redress, communicate it — appropriately scoped — to affected parties and to the practitioner network, adapt future dealings accordingly, and record the case.
@@ -65,11 +66,11 @@ Disclosure communicates five things:
 
 1. **How the adopter scopes decisions.** "I consider affected actors at four layers. Here is what that means for this deal."
 2. **What the adopter monitors.** Observable actions, not internal states: the counterparty’s adherence to the agreed terms and, where the counterparty is itself an adopter or practitioner, whether it met the commitments of that level.
-3. **What happens to the information.** Observed conduct is shared with other practitioners in the network, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of terms is communicated to affected parties.
+3. **What happens to the information.** The adopter can share its observations of conduct under the deal with other practitioners, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of agreed terms is communicated to affected parties.
 4. **How the adopter adapts.** Future cooperation is conditioned on observed adherence. The adopter's future behaviour toward this counterparty is predictable from the stated terms.
 5. **What practitioner-network membership means for this deal.** The preferential terms available to practitioners, stated as information.
 
-The disclosure produces a prediction narrative. The counterparty can model and test the adopter's future behaviour, including the consequences of defection.
+The disclosure informs a prediction narrative. The counterparty can model and test the adopter's future behaviour, including the consequences of breach of stated commitments.
 
 The counterparty receives a visible path to the practitioner-network premium if they want it. Disclosure of the Protocol does not itself establish trustworthiness, verification, or authorisation to represent the practitioner network.
 
