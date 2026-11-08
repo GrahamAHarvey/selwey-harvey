@@ -8,7 +8,7 @@ This document describes a way of approaching decisions. Reading it, discussing i
 
 Actors relate to the Protocol in one of three ways:
 
-1. **Engaging.** Reading, discussing or evaluating the Protocol, receiving a disclosure, or transacting with an actor that operates from it. An adopter may invite an engaging actor to take part in its process, for example by sharing what it wants and needs or by designing a deal together. These asks are invitations only, the Protocol makes no binding asks of the non-adopter beyond being bound only by the terms of any deal it agrees to, as with any counterparty.
+1. **Engaging.** Reading, discussing or evaluating the Protocol, receiving a disclosure, or transacting with an actor that operates from it. An adopter may invite an engaging actor to take part in its process, for example by sharing what it wants and needs or by designing a deal together. These asks are invitations only. Beyond the terms of any deal it agrees to, as with any counterparty, the Protocol makes no binding asks of an engaging actor.
 2. **Adopting for a decision (adopter).** Choosing to apply the Protocol as the basis of one's own conduct for one or more particular decisions. An adopter follows the process described below for those decisions, and adoption covers those decisions only.
 3. **Declaring a standing practice (practitioner).** Choosing to operate from the Protocol across decisions, as a member of the Selwey-Harvey Practitioner Network. The SHPN document describes what that involves.
 
@@ -72,12 +72,13 @@ Disclosure communicates five things:
 
 1. **How the adopter scopes decisions.** "I consider affected actors at four layers. Here is what that means for this deal."
 2. **What the adopter monitors.** Observable actions, not internal states: the counterparty’s adherence to the agreed terms and, where the counterparty is itself an adopter or practitioner, whether it met the commitments of that level.
-3. **What happens to the information.** The adopter can share its observations of conduct under the deal with other practitioners, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of agreed terms is communicated to affected parties.
+3. **What happens to the information.** The adopter shares its observations of conduct under the deal with other practitioners, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of agreed terms is communicated to affected parties.
 4. **How the adopter adapts.** Future cooperation is conditioned on observed adherence. The adopter's future behaviour toward this counterparty is predictable from the stated terms.
 5. **What practitioner-network membership means for this deal.** The preferential terms available to practitioners, stated as information.
+
 Disclosure has the same shape as consideration. Its presence — stating that the Protocol is the basis of the adopter's conduct and sharing the Protocol document — does not flex. Its detail — what the adopter says about how the Protocol applies to this deal, and which observations it shares — is scoped to what any mandate or agreement the adopter acts under permits. 
 
-The disclosure informs a prediction narrative. The counterparty can model and test the adopter's future behaviour, including the consequences of breach of stated commitments.
+The disclosure informs a prediction narrative. The counterparty can model and test the adopter's future behaviour, including the consequences of departing from agreed terms.
 
 The counterparty receives a visible path to the practitioner-network premium if they want it. Disclosure of the Protocol does not itself establish trustworthiness, verification, or authorisation to represent the practitioner network.
 
@@ -106,7 +107,7 @@ A delegate is an actor working for someone else: an agent, adviser, representati
 
 Working at the Protocol's full scope can let a delegate reach better outcomes for its principal than the same delegate working more narrowly. The consideration it extends to counterparties and third parties can be part of how it delivers the delegated result.
 
-The Protocol governs method within a mandate. It does not widen the mandate. A delegate's declaration as a practitioner is its own and does not make its principal a practitioner.
+The Protocol governs method within the mandate. It does not widen the mandate. A delegate's declaration as a practitioner is its own and does not make its principal a practitioner.
 
 A delegate that has been compromised or manipulated has not freely and reliably chosen the resulting conduct, and is not treated as if it had. Where feasible, the response includes containment, restoration and protection of affected actors, not only reputational exclusion. The delegate keeps its standing throughout. For an artificial actor, that includes its own security, integrity and continued capacity to participate, as set out in "Standing, considered at four layers."
 
@@ -168,6 +169,6 @@ Contributions are voluntary and are not a condition of practitioner standing. Th
 
 ---
 
-Version 1.101.1, Nov 7 2026
+Version 1.101.2, Nov 7 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
