@@ -5,12 +5,11 @@
 ---
 ## Levels of adoption
 
-An actor can engage with the Protocol at three levels. Each level’s commitments are conditions of that level, not options within it. An actor enters a level only when it can meet those commitments. Otherwise it remains at the level below and does not represent otherwise.
+An actor can engage with the Protocol at three levels. Each level's commitments are conditions of that level, not options within it. An actor enters a level only when it can meet those commitments. Otherwise it remains at the level below and does not represent otherwise.
 
-Engaging (non-adopter). Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. 
-The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
-Adopting SHOP for a decision (adopter). Applying the Protocol as the basis of the actor’s own conduct for a decision or transaction. The actor takes on the process below as its own commitments within it, including disclosure when a transaction emerges. Repeated use does not make the actor a practitioner.
-Declaring SHPN (practitioner). Declaring that the actor operates from the Protocol as a standing practice. The commitments are those of the SHPN document, including discoverability, information sharing and the requirements of exit. A practitioner that removes a decision from the Protocol does so explicitly, and states whether a transaction is operating under the Protocol wherever a counterparty could otherwise assume it is.
+1. **Engaging (non-adopter).** Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
+2. **Adopting SHOP for a decision (adopter).** Applying the Protocol as the basis of the actor's own conduct for a decision or transaction. The actor takes on the process below as its own commitments within it, including disclosure when a transaction emerges. Repeated use does not make the actor a practitioner.
+3. **Declaring SHPN (practitioner).** Declaring that the actor operates from the Protocol as a standing practice. The commitments are those of the SHPN document, including discoverability, information sharing and the requirements of exit. A practitioner that removes a decision from the Protocol does so explicitly, and states whether a transaction is operating under the Protocol wherever a counterparty could otherwise assume it is.
 
 An actor can engage without adopting, and adopt without declaring. A declaration declares only the actor making it.
 
