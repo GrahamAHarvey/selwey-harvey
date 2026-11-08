@@ -65,7 +65,7 @@ Disclosure communicates how the adopter operates, giving the counterparty enough
 Disclosure communicates five things:
 
 1. **How the adopter scopes decisions.** "I consider affected actors at four layers. Here is what that means for this deal."
-2. **What the adopter monitors.** Observable actions, not internal states. Did the actor scope, did it hold the layers in balance, did it avoid zeroing anyone.
+2. **What the adopter monitors.** Observable actions, not internal states: the counterparty’s adherence to the agreed terms and, where the counterparty is itself an adopter or practitioner, whether it met the commitments of that level.
 3. **What happens to the information.** Observed conduct is shared with other practitioners in the network, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of terms is communicated to affected parties.
 4. **How the adopter adapts.** Future cooperation is conditioned on observed adherence. The adopter's future behaviour toward this counterparty is predictable from the stated terms.
 5. **What practitioner-network membership means for this deal.** The preferential terms available to practitioners, stated as information.
