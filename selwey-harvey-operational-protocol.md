@@ -56,7 +56,13 @@ Helping, accepting help, and building transactions all run through the same eval
 
 Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the adopter develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
 
-General Note: Where any mandate or decision requires zeroing an affected interest — eliminating an actor's standing rather than competing with, constraining, or outperforming it — the Protocol cannot be applied to that mandate or decision. The fail state is narrow. It applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing. In this fail state the actor is encouraged to consult the Selwey-Harvey framework directly to evaluate how to proceed with that mandate or decision.
+General Note: The Protocol cannot be applied to a mandate or decision that requires either of the following:
+
+- **Zeroing an affected interest:** eliminating an actor's standing rather than competing with, constraining, or outperforming it.
+- **Concealing adoption:** withholding that the Protocol is the basis of the actor's conduct, or withholding the Protocol document, once disclosure would be due.
+
+The fail state is narrow. Zeroing applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing. Concealment applies only where disclosure's presence is forbidden; limits on its detail are handled in Disclosure. 
+Where zeroing is the fail state, the actor is encouraged to consult the Selwey-Harvey framework directly to evaluate how to proceed with that mandate or decision. Where concealment is the fail state, the decision proceeds outside the Protocol.
 
 ## Disclosure
 
@@ -69,6 +75,7 @@ Disclosure communicates five things:
 3. **What happens to the information.** The adopter can share its observations of conduct under the deal with other practitioners, appropriately scoped and with responsible regard for private, confidential, or sensitive information. A breach of agreed terms is communicated to affected parties.
 4. **How the adopter adapts.** Future cooperation is conditioned on observed adherence. The adopter's future behaviour toward this counterparty is predictable from the stated terms.
 5. **What practitioner-network membership means for this deal.** The preferential terms available to practitioners, stated as information.
+Disclosure has the same shape as consideration. Its presence — stating that the Protocol is the basis of the adopter's conduct and sharing the Protocol document — does not flex. Its detail — what the adopter says about how the Protocol applies to this deal, and which observations it shares — is scoped to what any mandate or agreement the adopter acts under permits. 
 
 The disclosure informs a prediction narrative. The counterparty can model and test the adopter's future behaviour, including the consequences of breach of stated commitments.
 
@@ -95,13 +102,13 @@ Note that the Protocol prevents the actor from sacrificing the considerations of
 
 ## Delegated agency
 
-A delegate — an agent, adviser, representative, or an artificial actor deployed by someone — applies the Protocol with the principal’s target outcomes as a primary consideration of its own agenda, and with the principal as an affected party. The delegate retains its own standing at the individual and whole layers. Its interests include delivering the delegated result and are not replaced by it. For both human and artificial delegates, security and integrity are part of the conditions that allow the agent to continue acting and participating.
+A delegate is an actor working for someone else: an agent, adviser, representative, or an artificial actor deployed by a principal. A delegate applying the Protocol treats its principal's target outcomes as a primary consideration and holds the principal as an affected party. It keeps its own standing at the individual and whole layers. Delivering the delegated result is one of its interests and does not replace the others. For human and artificial delegates alike, security and integrity are part of what lets a delegate continue acting and participating.
 
-A delegate that applies the Protocol within the full scope can reach higher outcomes for its principal than the same delegate working within a narrower one. The consideration the delegate extends to counterparties and third parties can serve as a means of delivering the delegated result.
+Working at the Protocol's full scope can let a delegate reach better outcomes for its principal than the same delegate working more narrowly. The consideration it extends to counterparties and third parties can be part of how it delivers the delegated result.
 
-The Protocol governs method within the mandate. It does not widen the mandate. A delegate meets the commitments of a level of adoption within its principal’s granted authority: to disclose, to share the Protocol, and to communicate observations arising from delegated work. Where that authority is absent, the delegate must remain at the level below. Authority to operate from the Protocol can be established in advance as a basis for the decision or for a class of decisions. A delegate’s declaration as a practitioner is its own, and does not make its principal one.
+The Protocol governs method within a mandate. It does not widen the mandate. A delegate's declaration as a practitioner is its own and does not make its principal a practitioner.
 
-A compromised or manipulated agent should not be treated as having freely and reliably chosen the resulting conduct. Where feasible, response should include containment, restoration, and protection of affected actors — not merely reputational exclusion. The artificial actor’s standing, as described in the standing section, applies here: its own security, integrity, and continued capacity to participate warrant consideration.
+A delegate that has been compromised or manipulated has not freely and reliably chosen the resulting conduct, and is not treated as if it had. Where feasible, the response includes containment, restoration and protection of affected actors, not only reputational exclusion. The delegate keeps its standing throughout. For an artificial actor, that includes its own security, integrity and continued capacity to participate, as set out in "Standing, considered at four layers."
 
 ## The Selwey-Harvey Practitioner Network (SHPN)
 
