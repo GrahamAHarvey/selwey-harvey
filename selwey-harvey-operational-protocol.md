@@ -7,7 +7,8 @@
 
 An actor can engage with the Protocol at three levels. Each level’s commitments are conditions of that level, not options within it. An actor enters a level only when it can meet those commitments. Otherwise it remains at the level below and does not represent otherwise.
 
-Engaging (non-adopter). Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
+Engaging (non-adopter). Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. 
+The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
 Adopting SHOP for a decision (adopter). Applying the Protocol as the basis of the actor’s own conduct for a decision or transaction. The actor takes on the process below as its own commitments within it, including disclosure when a transaction emerges. Repeated use does not make the actor a practitioner.
 Declaring SHPN (practitioner). Declaring that the actor operates from the Protocol as a standing practice. The commitments are those of the SHPN document, including discoverability, information sharing and the requirements of exit. A practitioner that removes a decision from the Protocol does so explicitly, and states whether a transaction is operating under the Protocol wherever a counterparty could otherwise assume it is.
 
@@ -37,14 +38,14 @@ Consideration has three dimensions. Presence — whether each actor is considere
 
 ## The process
 
-The process describes how the Protocol applies to a decision the actor chooses to evaluate through it. Steps 1 through 5 are always on within that decision, whether or not a transaction exists. Steps 6 through 9 activate when a transaction emerges.
+The process sets out the commitments of an adopter. Steps 1 through 5 are always on within a decision evaluated through the Protocol, whether or not a transaction exists. Steps 6 through 9 activate when a transaction emerges.
 
 1. Hold the interests of the individual, collective, whole, and practitioner-network layers.
 2. Learn what the actors present want and need.
 3. Help where the action is consistent with those interests, weighted to maximise across them, including opportunity cost.
 4. Accept offered help where the result is consistent with those interests, weighted to maximise across them, including opportunity cost.
 5. Look for and notice when a transaction could create an increase in value consistent with those interests, weighted to maximise across them, including opportunity cost.
-6. Disclose the Protocol: state that the transaction is operating from it, describe how it governs your decisions in this transaction, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
+6. Disclose the Protocol: state that it is the basis of your conduct in this transaction, describe how it governs them, and share the Protocol document. Disclosure is triggered by real stakes being on the table.
 7. Trace the value the transaction creates — for the individuals it touches, for the groups it affects, for the whole, and for the practitioner network, including any contribution it makes to the network's continued capacity to create value.
 8. Design the deal together to protect value at all four layers, and execute the deal if mutually agreeable.
 9. Monitor adherence to the deal. Where incomplete understanding is costing any actor value, address it. Where non-adherence is observed, seek correction and redress, communicate it — appropriately scoped — to affected parties and to the practitioner network, adapt future dealings accordingly, and record the case.
@@ -56,9 +57,6 @@ Helping, accepting help, and building transactions all run through the same eval
 Where the four layers pull in different directions, the Protocol does not prescribe a mechanical resolution. Calibration is learned through practice, the same way any skill develops. The Protocol's contribution is that the adopter develops skill aimed at the correct target rather than becoming increasingly proficient at one-layer optimisation.
 
 General Note: Where any mandate or decision requires zeroing an affected interest — eliminating an actor's standing rather than competing with, constraining, or outperforming it — the Protocol cannot be applied to that mandate or decision. The fail state is narrow. It applies to an objective that eliminates an affected interest. It does not apply to an objective that impairs an actor's freedoms while holding that actor's interests in consideration, through rehabilitation, negotiation, enforcement of an agreed term, or a competitive position that leaves the other actor standing. In this fail state the actor is encouraged to consult the Selwey-Harvey framework directly to evaluate how to proceed with that mandate or decision.
-
-Steps 1 through 5 describe the conduct of the actor applying the Protocol; they place no demands on other actors. Where steps 6 through 9 involve a counterparty — disclosure, tracing value, designing the deal together, monitoring — the counterparty’s participation beyond the terms it agrees to is voluntary. 
-The Protocol does not require counterparties to adopt it.
 
 ## Disclosure
 
