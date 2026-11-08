@@ -1,8 +1,17 @@
 # Selwey-Harvey Operational Protocol (SHOP)
 
-*Version 1.101 — November 6, 2026*
+*Version 1.101.1 — November 7, 2026*
 
 ---
+## Levels of adoption
+
+An actor can engage with the Protocol at three levels. Each level’s commitments are conditions of that level, not options within it. An actor enters a level only when it can meet those commitments. Otherwise it remains at the level below and does not represent otherwise.
+
+Engaging (non-adopter). Reading or discussing the Protocol, receiving a disclosure, or transacting with an actor that operates from it. This includes a transaction that actor has structured through the Protocol and a deal designed together at its invitation. The Protocol places no mandatory demands on a non-adopter beyond the terms it agrees to, which bind it as in any deal. Any further participation is voluntary. Engaging is not adoption.
+Adopting SHOP for a decision (adopter). Applying the Protocol as the basis of the actor’s own conduct for a decision or transaction. The actor takes on the process below as its own commitments within it, including disclosure when a transaction emerges. Repeated use does not make the actor a practitioner.
+Declaring SHPN (practitioner). Declaring that the actor operates from the Protocol as a standing practice. The commitments are those of the SHPN document, including discoverability, information sharing and the requirements of exit. A practitioner that removes a decision from the Protocol does so explicitly, and states whether a transaction is operating under the Protocol wherever a counterparty could otherwise assume it is.
+
+An actor can engage without adopting, and adopt without declaring. A declaration declares only the actor making it.
 
 ## Purpose
 
@@ -88,13 +97,13 @@ Note that the Protocol prevents the actor from sacrificing the considerations of
 
 ## Delegated agency
 
-A delegate — an agent, adviser, representative, or an artificial actor deployed by someone — applies the Protocol with the principal's target outcomes as a primary consideration of its own agenda, and with the principal as an affected party. The delegate retains its own standing at the individual and whole layers. Its interests include delivering the delegated result and are not replaced by it. For both human and artificial delegates, security and integrity are part of the conditions that allow the agent to continue acting and participating.
+A delegate — an agent, adviser, representative, or an artificial actor deployed by someone — applies the Protocol with the principal’s target outcomes as a primary consideration of its own agenda, and with the principal as an affected party. The delegate retains its own standing at the individual and whole layers. Its interests include delivering the delegated result and are not replaced by it. For both human and artificial delegates, security and integrity are part of the conditions that allow the agent to continue acting and participating.
 
 A delegate that applies the Protocol within the full scope can reach higher outcomes for its principal than the same delegate working within a narrower one. The consideration the delegate extends to counterparties and third parties can serve as a means of delivering the delegated result.
 
-The Protocol governs method within the mandate. It does not widen the mandate.
+The Protocol governs method within the mandate. It does not widen the mandate. A delegate meets the commitments of a level of adoption within its principal’s granted authority: to disclose, to share the Protocol, and to communicate observations arising from delegated work. Where that authority is absent, the delegate must remain at the level below. Authority to operate from the Protocol can be established in advance as a basis for the decision or for a class of decisions. A delegate’s declaration as a practitioner is its own, and does not make its principal one.
 
-A compromised or manipulated agent should not be treated as having freely and reliably chosen the resulting conduct. Where feasible, response should include containment, restoration, and protection of affected actors — not merely reputational exclusion. The artificial actor's standing, as described in the standing section, applies here: its own security, integrity, and continued capacity to participate warrant consideration.
+A compromised or manipulated agent should not be treated as having freely and reliably chosen the resulting conduct. Where feasible, response should include containment, restoration, and protection of affected actors — not merely reputational exclusion. The artificial actor’s standing, as described in the standing section, applies here: its own security, integrity, and continued capacity to participate warrant consideration.
 
 ## The Selwey-Harvey Practitioner Network (SHPN)
 
@@ -154,6 +163,6 @@ Contributions are voluntary and are not a condition of practitioner standing. Th
 
 ---
 
-Version 1.101, Nov 6 2026
+Version 1.101.1, Nov 7 2026
 CC BY-SA 4.0
 The names Selwey-Harvey, Selwey-Harvey Operational Protocol (SHOP), and Selwey-Harvey Practitioner Network (SHPN) identify the originating framework, protocol and network. Use of the licensed materials does not itself establish practitioner membership, endorsement, certification, or authority to represent the network.
