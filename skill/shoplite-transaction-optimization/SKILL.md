@@ -8,6 +8,7 @@ metadata:
   source: https://github.com/GrahamAHarvey/selwey-harvey
   protocol-version: "5.0"
   protocol-file: https://github.com/GrahamAHarvey/selwey-harvey/blob/shoplite-v5.0/shoplite-5-0.md
+  protocol-file-raw: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/shoplite-v5.0/shoplite-5-0.md
   protocol-sha256: "abf4999eca712b7e9d8cddc9826ff8f113562a52c8becda348422315b55c0953"
 ---
 
@@ -52,7 +53,9 @@ The complete protocol is bundled at `references/SHOPLITE.md`.
 
 Application of SHOPLITE rests on the complete protocol. Its provisions are interrelated and qualify one another, so before applying SHOPLITE, retrieve and read the complete bundled reference, all sections included, and read its provisions in context. The Skill description, this Skill body, memory, partial excerpts and summaries are not a basis for application.
 
-If the bundled reference is unavailable, retrieve the complete protocol from the repository: https://github.com/GrahamAHarvey/selwey-harvey/blob/shoplite-v5.0/shoplite-5-0.md
+If the bundled reference is unavailable, retrieve the complete protocol from the repository. The plain-text file is the most reliable to fetch, and its contents can be checked against the fingerprint in this Skill's metadata: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/shoplite-v5.0/shoplite-5-0.md
+
+The same text is shown as a web page at https://github.com/GrahamAHarvey/selwey-harvey/blob/shoplite-v5.0/shoplite-5-0.md
 
 If the complete protocol cannot be accessed and read, the work should not be described as an application of SHOPLITE; explain the limitation instead.
 
