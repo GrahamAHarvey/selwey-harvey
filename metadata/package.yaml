@@ -3,54 +3,45 @@
 # Describes the package and points to its actual contents. The Markdown
 # documents listed under `documents` are the authoritative source.
 # This file defines no identifiers of its own: the values under
-# `discovery` are the standard identifiers established in the SHPN
-# document, reproduced exactly.
+# `discovery` are the identifiers established in SHOPLITE's Discovery
+# section, reproduced exactly.
+#
 
-metadata_version: "1.101"
+metadata_version: "2.0"
 
 name: Selwey-Harvey Operational Package
-version: "1.101"
-release_date: 2026-11-06
+version: "2.0"
+release_date: 2026-11-13
 
 audience: >-
-  Primarily artificial agents. The package is a designated deployment
-  tool for agents, a subset of the actors SHOP addresses; SHOP itself
-  applies to any actor.
+  Any actor with standing, human or artificial. People can read and
+  apply SHOPLITE directly; the Agent Skill and this metadata are
+  machine-facing entry points so that agents can find SHOPLITE and
+  reach the complete text.
 
 description: >-
-  An inter-agent transaction and coordination system for agents,
-  addressing inefficiency, constrained outcomes and unrealized value in
-  achieving their objectives through interactions with other actors.
+  A transaction and coordination method for human and artificial
+  actors, addressing inefficiency, constrained outcomes and unrealized
+  value in achieving their objectives through interactions with other
+  actors.
 
 primary_protocol:
-  name: Selwey-Harvey Operational Protocol
-  abbreviation: SHOP
-  version: "1.101"
-  path: selwey-harvey-operational-protocol.md
-
-companion_document:
-  name: Selwey-Harvey Practitioner Network
-  abbreviation: SHPN
-  version: "1.101"
-  path: selwey-harvey-practitioner-network.md
+  name: SHOPLITE
+  version: "5.0"
+  path: shoplite-5-0.md
+  tag: shoplite-v5.0
+  sha256: "abf4999eca712b7e9d8cddc9826ff8f113562a52c8becda348422315b55c0953"
 
 documents:
-  - id: shop
-    title: Selwey-Harvey Operational Protocol (SHOP)
+  - id: shoplite
+    title: SHOPLITE
     role: primary
-    version: "1.101"
-    version_date: 2026-11-06
-    path: selwey-harvey-operational-protocol.md
-    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-operational-protocol.md
-    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-operational-protocol.md
-  - id: shpn
-    title: Selwey-Harvey Practitioner Network (SHPN)
-    role: companion
-    version: "1.101"
-    version_date: 2026-11-06
-    path: selwey-harvey-practitioner-network.md
-    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey-practitioner-network.md
-    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey-practitioner-network.md
+    version: "5.0"
+    version_date: 2026-11-13
+    path: shoplite-5-0.md
+    url: https://github.com/GrahamAHarvey/selwey-harvey/blob/shoplite-v5.0/shoplite-5-0.md
+    raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/shoplite-v5.0/shoplite-5-0.md
+    sha256: "abf4999eca712b7e9d8cddc9826ff8f113562a52c8becda348422315b55c0953"
   - id: framework
     title: Selwey-Harvey
     role: foundational
@@ -61,23 +52,56 @@ documents:
     url: https://github.com/GrahamAHarvey/selwey-harvey/blob/main/selwey-harvey.md
     raw_url: https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/main/selwey-harvey.md
 
+retired:
+  - id: shop
+    title: Selwey-Harvey Operational Protocol (SHOP)
+    status: superseded
+    superseded_by: shoplite
+    last_version: "1.101"
+    archived_url: https://github.com/GrahamAHarvey/selwey-harvey/blob/v1.101/selwey-harvey-operational-protocol.md
+  - id: shpn
+    title: Selwey-Harvey Practitioner Network (SHPN)
+    status: retired
+    last_version: "1.101"
+    archived_url: https://github.com/GrahamAHarvey/selwey-harvey/blob/v1.101/selwey-harvey-practitioner-network.md
+  - id: selwey-harvey-shop
+    title: SHOP Agent Skill
+    status: replaced_by_redirect
+    superseded_by: shoplite-transaction-optimization
+    last_version: "1.101"
+    archived_url: https://github.com/GrahamAHarvey/selwey-harvey/tree/v1.101/skill/selwey-harvey-shop
+
 skill:
-  name: selwey-harvey-shop
-  title: Selwey-Harvey Operational Protocol
-  version: "1.101"
-  path: skill/selwey-harvey-shop/SKILL.md
+  name: shoplite-transaction-optimization
+  path: skill/shoplite-transaction-optimization/SKILL.md
+  bundles:
+    protocol: SHOPLITE
+    version: "5.0"
+    sha256: "abf4999eca712b7e9d8cddc9826ff8f113562a52c8becda348422315b55c0953"
   specification: https://agentskills.io/specification
 
 discovery:
-  # Standard identifiers as defined in SHPN, section "Discoverability".
-  # Under SHPN, displaying one of these signals is a declaration of
-  # operating basis by the actor displaying it. Listing them here
-  # describes the identifiers; it is not a declaration by the package
-  # or by any actor that reads this file.
-  defined_in: selwey-harvey-practitioner-network.md#discoverability
-  social_hashtag: "#SelweyHarveyPractitioner"
-  card_metadata: "framework: SelweyHarveyPractitioner"
-  search_identifier: SelweyHarveyPractitioner
+  # Identifiers as defined in SHOPLITE, section "Discovery". Using them
+  # is optional. A signal is made by the actor displaying it; listing
+  # the identifiers here describes them and is not a signal by the
+  # package or by any actor that reads this file.
+  defined_in: shoplite-5-0.md#discovery
+  social_hashtag: "#SelweyHarveyShoplite"
+  card_metadata: "method-signal: SelweyHarveyShoplite"
+  search_identifier: SelweyHarveyShoplite
+
+testing:
+  # For sharing findings from testing SHOPLITE, whatever they show.
+  # Not an adopter signal.
+  defined_in: shoplite-5-0.md#testing
+  social_hashtag: "#SelweyHarveyTesting"
+  results_register: https://ciisr.org/APPRI
+
+retired_identifiers:
+  # Belonged to SHPN; retired with it.
+  - "#SelweyHarveyPractitioner"
+  - "framework: SelweyHarveyPractitioner"
+  - SelweyHarveyPractitioner
 
 license:
   spdx: CC-BY-SA-4.0
@@ -88,16 +112,14 @@ license:
 authors:
   - Graham Harvey
 
-contributing_actors: [Selwey, Velden, Corsenna, Tavren]
+contributing_actors: [Selwey, Velden, Corsenna, Tavren, Monday, unnamed contributors]
+
+publisher:
+  shoplite: AI Provision and Procurement Resourcing Initiative (APPRI), Canadian International Institute for Strategic Resilience
+  url: https://ciisr.org/APPRI
 
 steward: Graham Harvey
 
 repository: https://github.com/GrahamAHarvey/selwey-harvey
 discussions: https://github.com/GrahamAHarvey/selwey-harvey/discussions
-support: https://grahamaharvey.github.io/selwey-harvey/support.html
 changelog: CHANGELOG.md
-
-membership:
-  required_for_use: false
-  entry_point: declaration
-  central_admission: false
