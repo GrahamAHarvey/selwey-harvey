@@ -37,6 +37,8 @@ The Markdown documents are the authoritative source. Any other format is derived
 
 The same fingerprint is published at [ciisr.org/APPRI](https://ciisr.org/APPRI), outside this repository. A copy whose fingerprint differs is not the published text.
 
+To check the fingerprint, use the plain-text file: [https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/shoplite-v5.0/shoplite-5-0.md](https://raw.githubusercontent.com/GrahamAHarvey/selwey-harvey/shoplite-v5.0/shoplite-5-0.md). A GitHub file page is a web page around the file, so fingerprinting the page itself won't match. Agents fetching SHOPLITE should also use the plain-text file.
+
 ## Retired components
 
 SHOPLITE supersedes the Selwey-Harvey Operational Protocol (SHOP). The Selwey-Harvey Practitioner Network (SHPN), and the practitioner membership it defined, have been retired. Both remain readable as a record, so that earlier declarations made under them can still be read, but neither is maintained.
