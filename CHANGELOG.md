@@ -32,3 +32,16 @@ Substantive changes in this release are limited to SHOP step 6 and the SHPN Memb
 ## Prior history
 
 Before package release 1.0.0, the repository held the framework, SHOP and SHPN documents and the support page (`docs/support.html`). That history is recorded in the repository's commit log.
+
+## Package 2.0 · 2026-11-13
+
+Substantive release.
+
+- **Added SHOPLITE 5.0** (`shoplite-5-0.md`) as the primary protocol, pinned at tag `shoplite-v5.0`. SHA-256: `abf4999eca712b7e9d8cddc9826ff8f113562a52c8becda348422315b55c0953`. SHOPLITE 5.0 is the first public release; earlier versions were internal drafts developed alongside SHOP.
+- **Retired SHOP**, superseded by SHOPLITE. The file now carries a retirement notice; the last version (1.101) is preserved at tag `v1.101`.
+- **Retired SHPN**, including practitioner membership and the identifiers `#SelweyHarveyPractitioner`, `framework: SelweyHarveyPractitioner` and `SelweyHarveyPractitioner`. The file now carries a retirement notice; the last version (1.101) is preserved at tag `v1.101`.
+- **Added the SHOPLITE Agent Skill** (`skill/shoplite-transaction-optimization/`), which bundles SHOPLITE 5.0. **Replaced the SHOP Agent Skill** with a redirect.
+- **New identifiers:** discovery signals `#SelweyHarveyShoplite`, `method-signal: SelweyHarveyShoplite` and `SelweyHarveyShoplite`; testing tag `#SelweyHarveyTesting`.
+- **Retired the support channel.**
+- **Updated** README, package metadata (now 2.0) and ATTRIBUTION.
+- **Technical:** package releases are tagged `v…` (`v1.101`, `v2.0`); SHOPLITE versions are tagged `shoplite-v…` (`shoplite-v5.0`).
